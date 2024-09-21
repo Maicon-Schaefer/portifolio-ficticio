@@ -1,0 +1,26 @@
+Aula 01: 
+Sobre medidas relativas e absolutas;
+Utilizar a documentação sobre unidade de medidas;
+Utilizar a unidade de medida REM;
+Alterar a aparência do navegador em configurações.
+
+Aula 02:
+Adaptar elementos;
+Utilizar a ferramenta do DevTools;
+Visualizar nosso projeto na versão responsiva;
+Alterar o tamanho da visualização na tela;
+Adaptar elementos utilizando as unidades de medidas relativas.
+
+Aula 03:
+O que é a media query;
+O que é a responsividade;
+Como adaptar nosso site para diferentes tamanhos de tela;
+Que a unidade de medida porcentagem é amiga da responsividade.
+
+Aula 04:
+Mais um pouco sobre responsividade;
+O que é Git e GitHub;
+Como criar uma nova conta no GitHub.
+
+
+Aula 05:
